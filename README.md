@@ -1,2 +1,2 @@
-# OOP-ICT-Resource-Utilization-System
+# ICT-Resource-Utilization-System
 Name: Fodie Fomba Kamara  ID:81760 

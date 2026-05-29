@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1780056861 source:c:\users\doc. swarray\desktop\new folder\ict resource utilization center system\r.cpp
+	"R.h"
+
+1780056861 c:\users\doc. swarray\desktop\new folder\ict resource utilization center system\r.h
+	<iostream>
+
+1780056460 source:c:\users\doc. swarray\desktop\new folder\ict resource utilization center system\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	"R.h"
+	"RService.h"
+
+1780056861 c:\users\doc. swarray\desktop\new folder\ict resource utilization center system\rservice.h
+	<vector>
+	"R.h"
+
+1780056861 source:c:\users\doc. swarray\desktop\new folder\ict resource utilization center system\rservice.cpp
+	"RService.h"
+	<iostream>
+

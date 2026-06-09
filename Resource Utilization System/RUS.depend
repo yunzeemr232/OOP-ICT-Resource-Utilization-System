@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1779876127 source:c:\users\doc. swarray\desktop\new\rus\main.cpp
+	<iostream>
+	"R.h"
+	"RService.h"
+
+1779875798 c:\users\doc. swarray\desktop\new\rus\r.h
+	<iostream>
+
+1779877060 c:\users\doc. swarray\desktop\new\rus\rservice.h
+	<vector>
+	<iostream>
+	"R.h"
+
+1779878069 source:c:\users\doc. swarray\desktop\new\rus\src\r.cpp
+	"R.h"
+
+1779877888 source:c:\users\doc. swarray\desktop\new\rus\rservice.cpp
+	"RService.h"
+
+1779876127 source:c:\users\doc. swarray\desktop\resource utilization system\main.cpp
+	<iostream>
+	"R.h"
+	"RService.h"
+
+1779875798 c:\users\doc. swarray\desktop\resource utilization system\r.h
+	<iostream>
+
+1779877060 c:\users\doc. swarray\desktop\resource utilization system\rservice.h
+	<vector>
+	<iostream>
+	"R.h"
+
+1779877888 source:c:\users\doc. swarray\desktop\resource utilization system\rservice.cpp
+	"RService.h"
+
+1779878069 source:c:\users\doc. swarray\desktop\resource utilization system\src\r.cpp
+	"R.h"
+
+1779875798 c:\users\doc. swarray\desktop\resource utilization system\\r.h
+	<iostream>
+
+1780006420 source:c:\users\idris\desktop\resource utilization system\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"R.h"
+	"RService.h"
+
+1779875800 c:\users\idris\desktop\resource utilization system\r.h
+	<iostream>
+
+1780006581 c:\users\idris\desktop\resource utilization system\rservice.h
+	<vector>
+	<string>
+	<iostream>
+	"R.h"
+
+1780006532 source:c:\users\idris\desktop\resource utilization system\rservice.cpp
+	<iostream>
+	"RService.h"
+
+1779878070 source:c:\users\idris\desktop\resource utilization system\src\r.cpp
+	"R.h"
+
+1779875800 c:\users\idris\desktop\resource utilization system\\r.h
+	<iostream>
+
+1780893907 source:c:\users\lenovo\onedrive\desktop\resource utilization system\rservice.cpp
+	<iostream>
+	"RService.h"
+
+1780031782 c:\users\lenovo\onedrive\desktop\resource utilization system\rservice.h
+	<vector>
+	<string>
+	<iostream>
+	"R.h"
+
+1779901000 c:\users\lenovo\onedrive\desktop\resource utilization system\r.h
+	<iostream>
+
+1779903270 source:c:\users\lenovo\onedrive\desktop\resource utilization system\src\r.cpp
+	"R.h"
+
+1779901000 c:\users\lenovo\onedrive\desktop\resource utilization system\\r.h
+	<iostream>
+
+1780893877 source:c:\users\lenovo\onedrive\desktop\resource utilization system\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"R.h"
+	"RService.h"
+
